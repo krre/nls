@@ -1,2 +1,2 @@
-# nls
-Norm language server
+# Norm language server
+Backend for developing Norm projects.
